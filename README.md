@@ -1,3 +1,5 @@
+ //Hello po Mrs.Greta, it doesnt work po sa codespace at vscode ko po may issue po ata sa mga extensions stuff, I'll try to figure out nalang po with the help of my brother po, hindi ko rin po alam mag link ng git sa netbeans ko e kaya po ilalapag ko nalang po dito. Thank you and Sorry for the inconvenience po.
+ 
 //Aaliyah Rotairo ALiluran
 //Computer Programming 2 DIT 1-1
 //Mrs. Greta 
@@ -68,8 +70,6 @@ public class ArrayMue {
         if(!found){
             System.out.println("Student not found!");
         }
-
-        //Hello po Mrs.Greta, it doesnt work po sa codespace at vscode ko po may issue po ata sa mga extensions stuff, I'll try to figure out nalang po with the help of my brother po, hindi ko rin po alam mag link ng git sa netbeans ko e kaya po ilalapag ko nalang po dito. Thank you and Sorry for the inconvenience po.
 
     }
 }
